@@ -7,16 +7,29 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-  - Actively learning Golang
   - [Microservice Orchestrator](https://muralishclint.medium.com/microservice-orchestrator-a24ee5935c15?source=topics_v2---------1-84--------------------02cb0a5a_fab3_48c9_9f86_042d75bafbbc-------19)
+
 - 🌱 I’m currently learning ...
+  - Golang
+  - gRPC
+  - Complex design patterns
+  - Kubernetes
+ 
 - 👯 I’m looking to collaborate on ...
   - GO projects
-- 🤔 I’m looking for help with ...
+  - Ruby on Rails projects
+
 - 💬 Ask me about ...
+  - Ruby on Rails
+  - Ecommerce and Payment systems   
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+  - [Linkedin](https://www.linkedin.com/in/mcmuralishclint/)   
+
+- 😄 Pronouns: He/Him   
+
 - ⚡ Fun fact: ...
+  - I also love to write: Check my work on [Medium](https://muralishclint.medium.com/)   
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
