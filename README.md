@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://muralishclint.medium.com/">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=medium&logoColor=white" alt="Youtube Badge"/>
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
     <a href="https://twitter.com/MuralishClinto4">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
