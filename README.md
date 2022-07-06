@@ -25,8 +25,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I watch tech videos, write articles.
-
 - 🔭 I’m currently working on ...
   - [Microservice Orchestrator](https://muralishclint.medium.com/microservice-orchestrator-a24ee5935c15?source=topics_v2---------1-84--------------------02cb0a5a_fab3_48c9_9f86_042d75bafbbc-------19)
 
@@ -46,11 +44,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - 📫 How to reach me: ...
   - [Linkedin](https://www.linkedin.com/in/mcmuralishclint/)   
-
-- 😄 Pronouns: He/Him   
-
-- ⚡ Fun fact: ...
-  - I also love to write: Check my work on [Medium](https://muralishclint.medium.com/)   
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
