@@ -37,14 +37,11 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 👯 I’m looking to collaborate on ...
   - GO projects
   - Ruby on Rails projects
+  - Medium articles
 
 - 💬 Ask me about ...
   - Ruby on Rails
   - Ecommerce and Payment systems   
-
-- 📫 How to reach me: ...
-  - [Linkedin](https://www.linkedin.com/in/mcmuralishclint/)   
-
 
 ---
 
