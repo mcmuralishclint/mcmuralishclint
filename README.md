@@ -4,8 +4,6 @@
 
 ### Hi there, I'm **Muralish Clinton** 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
   - [Microservice Orchestrator](https://muralishclint.medium.com/microservice-orchestrator-a24ee5935c15?source=topics_v2---------1-84--------------------02cb0a5a_fab3_48c9_9f86_042d75bafbbc-------19)
 
