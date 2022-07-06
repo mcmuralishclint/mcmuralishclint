@@ -13,11 +13,19 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hi there, I'm **Muralish Clinton** 👋
+    Hi there, I'm Muralish Clinton 👋
   </h1>
 </div>
 <div align="center">
 </div>
+
+### 👨‍💻: About Me :
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Srilanka.
+- :telescope: I’m working as a Product Engineer and contributing to designing and developing scalable E-commerce and Payment systems
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I watch tech videos, write articles.
 
 - 🔭 I’m currently working on ...
   - [Microservice Orchestrator](https://muralishclint.medium.com/microservice-orchestrator-a24ee5935c15?source=topics_v2---------1-84--------------------02cb0a5a_fab3_48c9_9f86_042d75bafbbc-------19)
