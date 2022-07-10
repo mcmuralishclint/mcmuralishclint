@@ -24,6 +24,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Exploring Technical Content Writing.
 
+- :notebook_with_decorative_cover: Latest articles
+  - [10 qualities that will help you evolve as a better software engineer](https://muralishclint.medium.com/10-qualities-that-will-help-you-evolve-as-a-better-software-product-engineer-90e517b7e159)
 - 🔭 I’m currently working on ...
   - [Microservice Orchestrator](https://muralishclint.medium.com/microservice-orchestrator-a24ee5935c15?source=topics_v2---------1-84--------------------02cb0a5a_fab3_48c9_9f86_042d75bafbbc-------19)
 
