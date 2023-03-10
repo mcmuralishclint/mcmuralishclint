@@ -25,7 +25,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :seedling: Exploring Technical Content Writing.
 
 - :notebook_with_decorative_cover: Latest articles
-  - [Microservice Circuit Break Pattern With RMQ] (https://levelup.gitconnected.com/microservice-circuit-breaker-pattern-with-rabbitmq-a8cc1ebd3c7c)
+  - [Microservice Circuit Break Pattern With RMQ](https://levelup.gitconnected.com/microservice-circuit-breaker-pattern-with-rabbitmq-a8cc1ebd3c7c)
   - [10 qualities that will help you evolve as a better software engineer](https://muralishclint.medium.com/10-qualities-that-will-help-you-evolve-as-a-better-software-product-engineer-90e517b7e159)
   - [Microservice Orchestrator](https://medium.com/p/a24ee5935c15)
 - 🔭 I’m currently working on ...
