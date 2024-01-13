@@ -25,7 +25,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :seedling: Exploring Technical Content Writing.
 
 - :notebook_with_decorative_cover: Latest articles
-  - [Microservice Circuit Breaker Pattern With RabbitMQ](https://levelup.gitconnected.com/microservice-circuit-breaker-pattern-with-rabbitmq-a8cc1ebd3c7c)
   - [Unleashing the Power of a Legacy Ruby On Rails Application](https://levelup.gitconnected.com/unleashing-the-power-of-a-legacy-ruby-on-rails-application-ca321cbe89bc)
   - [Optimizing DevOps Success: Crafting a Winning QA Strategy with Blue-Green Deployment](https://levelup.gitconnected.com/optimizing-devops-success-crafting-a-winning-qa-strategy-with-blue-green-deployment-2eaf38a72826)
   - [Microservice Circuit Break Pattern With RMQ](https://levelup.gitconnected.com/microservice-circuit-breaker-pattern-with-rabbitmq-a8cc1ebd3c7c)
